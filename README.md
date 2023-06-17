@@ -28,7 +28,7 @@ $cat example/trees.input
 ......
 ```
 
-#### The output file look like this: The first column represents the frequency, and the second column represents the corresponding topology.
+### The output file look like this: The first column represents the frequency, and the second column represents the corresponding topology.
 ```shell
 $cat treetop_stats.output
 15  (((A,B),C));
