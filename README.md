@@ -1,5 +1,5 @@
 # TreeTopStats
-### Statistics percentage of different topologies among phylogenetic trees
+### TreeTopStats: A tool for statistics percentage of different topologies among phylogenetic trees
 #### 统计系统发育树不同拓扑结构所占百分比
 
 # Requirement
