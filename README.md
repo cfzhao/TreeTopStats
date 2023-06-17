@@ -1,5 +1,5 @@
 # TreeTopStats
-Statistics percentage of different topology among phylogenetic trees
+Statistics percentage of different topologies among phylogenetic trees
 
 # Requirement
 ETE3=3.1.2
